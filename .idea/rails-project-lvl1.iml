@@ -14,4 +14,9 @@
     <orderEntry type="library" scope="PROVIDED" name="bundler (v1.17.3, ruby-2.6.8-p205) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="minitest (v5.15.0, ruby-2.6.8-p205) [gem]" level="application" />
   </component>
+  <component name="RakeTasksCache">
+    <option name="myRootTask">
+      <RakeTaskImpl id="rake" />
+    </option>
+  </component>
 </module>
